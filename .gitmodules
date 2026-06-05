@@ -1,0 +1,3 @@
+[submodule "Blackrooster"]
+	path = Blackrooster
+	url = https://github.com/Minerva-HG/blackrooster.git
